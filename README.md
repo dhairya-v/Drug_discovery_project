@@ -55,5 +55,4 @@ This project makes use of the following software and libraries:
 
 ---
 
-## Repository Structure
 
